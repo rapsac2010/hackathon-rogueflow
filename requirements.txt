@@ -1,0 +1,14 @@
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.4.2
+typing-extensions>=4.8.0
+numpy
+pandas
+tqdm
+ipywidgets
+opencv-python
+torch
+torchvision
+torchaudio
+av
+transformers
